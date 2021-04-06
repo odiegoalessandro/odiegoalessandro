@@ -1,6 +1,5 @@
 <h1 align="center">Diego Alessandro da Cruz Martins</h1>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/odiegoalessandro)](https://github.com/odiegoalessandro)
 <h1 align="center">Sobre mim</h1>
 <p>
   <b>
