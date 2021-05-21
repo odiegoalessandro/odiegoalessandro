@@ -3,9 +3,9 @@
 <h1 align="center">Sobre mim</h1>
 <p>
   <b>
-    Olá pessoas eu me chamo Diego Alessandro da Cruz Martins tenho 14 anos estudo desenvolvimento front-end. 
-    Hoje estou morando em Sorocaba,SP. No meu tempo livre gosto de jogar com meus amigos
-    e desenvolver projetos pessoais. Também gosto muito de viajar e conhecer coisas novas.
+    Olá pessoas eu me chamo Diego Alessandro da Cruz Martins tenho 14 anos estudo desenvolvimento desde de 2017. 
+    Hoje estou morando em Sorocaba,SP. No meu tempo livre gosto de estudar sobre novas tecnologias
+    e desenvolver projetos pessoais. Também gosto muito de jogar jogos retrô.
     
   </b>
 </p>
