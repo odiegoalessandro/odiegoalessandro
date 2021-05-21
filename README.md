@@ -1,6 +1,6 @@
 <h1 align="center">Diego Alessandro da Cruz Martins</h1>
 
-<h1 align="center">Sobre mim👩🏻‍�</h1>
+<h1 align="center">Sobre mim</h1>
 <p>
   <b>
     Olá pessoas eu me chamo Diego Alessandro da Cruz Martins tenho 14 anos estudo desenvolvimento front-end. 
