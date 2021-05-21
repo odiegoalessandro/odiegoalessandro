@@ -1,6 +1,6 @@
 <h1 align="center">Diego Alessandro da Cruz Martins</h1>
 
-<h1 align="center">Sobre mim</h1>
+<h1 align="center">Sobre mim👩🏻‍�</h1>
 <p>
   <b>
     Olá pessoas eu me chamo Diego Alessandro da Cruz Martins tenho 14 anos estudo desenvolvimento front-end. 
@@ -18,16 +18,17 @@
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/nextjs%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-F05033.svg?&style=for-the-badge&logo=java&logoColor=white"/>
- 
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql%20-%230db7ed.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 
 <center>
+  <h1 align="center">Estatísticas🧮</h1>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odiegoalessandro&hide=html&layout=compleate&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=odiegoalessandro&theme=buefy"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odiegoalessandro&hide=html&layout=compact&theme=buefy&locale=pt-BR&title_color=ADBAC7&bg_color=22272E&text_color=ADBAC7&hide_border=False" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=odiegoalessandro&theme=buefy&locale=pt-BR&title_color=ADBAC7&bg_color=22272E&text_color=ADBAC7&hide_border=False&show_icons=True&icon_color=0DB7ED"/></td>
     </tr>   
   </table>
 </center> 
