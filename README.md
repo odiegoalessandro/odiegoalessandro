@@ -28,7 +28,7 @@
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odiegoalessandro&hide=html&layout=compact&theme=buefy&locale=pt-BR&title_color=ADBAC7&bg_color=22272E&text_color=ADBAC7&hide_border=False" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=odiegoalessandro&theme=buefy&locale=pt-BR&title_color=ADBAC7&bg_color=22272E&text_color=ADBAC7&hide_border=False&show_icons=True&icon_color=0DB7ED"/></td>
+        <td><img width="485px" align="left" src="https://github-readme-stats.vercel.app/api?username=odiegoalessandro&theme=buefy&locale=pt-BR&title_color=ADBAC7&bg_color=22272E&text_color=ADBAC7&hide_border=False&show_icons=True&icon_color=0DB7ED"/></td>
     </tr>   
   </table>
 </center> 
