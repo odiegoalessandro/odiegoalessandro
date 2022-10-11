@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/mysql%20-%230db7ed.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/chakra%20-%230db77d.svg?&style=for-the-badge&logo=chakraui&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++%20-%231572B6.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 </p>
 
 
