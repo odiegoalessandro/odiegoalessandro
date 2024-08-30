@@ -21,6 +21,9 @@
   <img src="https://img.shields.io/badge/chakra%20-%230db77d.svg?&style=for-the-badge&logo=chakraui&logoColor=white"/>
   <img src="https://img.shields.io/badge/angular%20-red.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/nest.js%20-%2343853D.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 
@@ -28,8 +31,8 @@
   <h1 align="center">Estatísticas🧮</h1>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odiegoalessandro&hide=html&layout=compact&theme=buefy&locale=pt-BR&title_color=ADBAC7&bg_color=22272E&text_color=ADBAC7&hide_border=False" /></td>
-        <td><img width="475px" align="left" src="https://github-readme-stats.vercel.app/api?username=odiegoalessandro&theme=buefy&locale=pt-BR&title_color=ADBAC7&bg_color=22272E&text_color=ADBAC7&hide_border=False&show_icons=True&icon_color=0DB7ED"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odiegoalessandro&theme=dark&show_icons=true&hide_border=true&layout=compact&hide=html,css" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=odiegoalessandro&theme=dark&show_icons=true&hide_border=true&count_private=true" /></td>
     </tr>   
   </table>
 </center> 
