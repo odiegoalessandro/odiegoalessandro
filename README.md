@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/mysql%20-%230db7ed.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/chakra%20-%230db77d.svg?&style=for-the-badge&logo=chakraui&logoColor=white"/>
   <img src="https://img.shields.io/badge/angular%20-red.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nest.js%20-%2343853D.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/>
 </p>
 
 
