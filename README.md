@@ -1,40 +1,76 @@
-<h1 align="center">Sobre mim</h1>
-<p>
-  <b>
-    Me chamo Diego Alessandro, nasci e moro no Brasil mais especificamente Sorocaba,SP. Estudo desenvolvimento web desde 2019
-    e amo projeto open-souce sendo dos mais variados tipo desde terminais feitos com JavaScript há sites de jogos retrô e em 
-    meu tempo livre gosto de assitir séries e filmes(🎞), ouvir música e podcasts(🎵), jogar jogos retrô(🕹) e viajar(✈)
-  </b>
-</p>
-<h1 align="center">Tecnologias💻</h1>
+<h1 align="center">Diego Alessandro</h1>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react%20-%230db7ed.svg?&style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/nextjs%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql%20-%230db7ed.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/chakra%20-%230db77d.svg?&style=for-the-badge&logo=chakraui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/angular%20-red.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/nest.js%20-%2343853D.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <strong>Software Engineer | Backend | Java & Spring Boot</strong>
 </p>
 
+<p align="center">
+  Sorocaba, SP 🇧🇷
+</p>
 
-<center>
-  <h1 align="center">Estatísticas🧮</h1>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odiegoalessandro&theme=dark&show_icons=true&hide_border=true&layout=compact&hide=html,css" /></td>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=odiegoalessandro&theme=dark&show_icons=true&hide_border=true&count_private=true" /></td>
-    </tr>   
-  </table>
-</center> 
+---
+
+## Sobre mim
+
+Sou desenvolvedor de software com foco em **back-end**, trabalhando principalmente com
+**Java, Spring Boot, Node.js e TypeScript**.
+
+Tenho experiência no desenvolvimento de APIs, integrações entre sistemas, aplicações web,
+mensageria, bancos de dados relacionais e não relacionais, além de infraestrutura e
+observabilidade.
+
+---
+
+## Stack
+
+### Back-end
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
+
+### Front-end
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+</p>
+
+### Bancos de dados
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+### Infraestrutura & ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=odiegoalessandro&theme=github_dark"
+    alt="GitHub Profile Summary"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=odiegoalessandro&theme=github-compact&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
